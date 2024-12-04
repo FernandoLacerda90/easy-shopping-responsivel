@@ -13,4 +13,4 @@
 <br>
 <br>
 <h3>Mobile</h3>
-<img src="https://github.com/FernandoLacerda90/easy-shopping-responsivel/blob/master/assets/desktop.png?raw=true"/>
+<img src="https://github.com/FernandoLacerda90/easy-shopping-responsivel/blob/master/assets/mobile.png?raw=true" height="50%"/>
